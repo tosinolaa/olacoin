@@ -1,0 +1,8 @@
+[project]
+name = "olacoin"
+description = "Fungible token OLACOIN on Stacks using Clarity"
+authors = ["anthony"]
+telemetry = false
+
+[contracts.olacoin]
+path = "contracts/olacoin.clar"
